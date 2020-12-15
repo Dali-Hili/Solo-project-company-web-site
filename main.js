@@ -13,7 +13,5 @@ $('#log').css('display', 'inline');
 
 
 $(document).ready(function(){
-    $(this).scrollTop(0,0);
+    $(this).scrollTop(0);
 });
-
-
