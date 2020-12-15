@@ -1,0 +1,184 @@
+
+img{
+	height: 8em;
+	margin-top: -3em;
+}
+body{
+	background-color: #000000;
+}
+
+body{
+	background-image: url(https://wallpaperaccess.com/full/473133.jpg)
+}
+
+#topnav {
+  overflow: hidden;
+  background-color: #333;
+  margin-left: 61.24em;
+
+}
+
+#topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+div {
+	opacity: 0.5;
+}
+
+#topnav a.active {
+  color: white;
+}
+
+#first {
+	color: #00BFFF;   //#F5FFFA  #F0E68C
+	margin-left: 9em;
+	font-size: 40px;
+	border-style: outset;
+	border-color: #1F2833;
+	border-radius: 10px;
+	text-align: center;
+    background-color: #1F2833;
+    opacity: 0.5;
+    font-family: 'Russo One', sans-serif;
+}
+
+#second{
+	color: #FFFACD;
+	margin: 3em;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;;
+}
+hr {  
+width: 80%;  
+height: 1px;  
+background-color: pink;  
+margin-bottom: 4px;  
+margin-right: auto;  
+margin-left: auto;  
+margin-top: 5px;  
+opacity: 0.5;
+
+}  
+#third {
+	color: #FFFACD;
+	margin: 3em;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+}
+
+.bebe{
+	color: #FFFACD;
+	margin-top: 3em;
+	font-size: 17px;
+	font-family: 'Dancing Script', cursive;
+}
+#fourth{
+	color: #FFFACD;
+	margin: 3em;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+}
+.exam{
+	width: 32%;
+	height: auto;
+	float: center;
+	opacity: 0.8;
+	margin-left: 0.7em;
+	border-radius: 10px;
+}
+
+#disc{
+	color: #FFFACD;
+	margin: 3em;
+	/*margin-top: 5em*/
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+}
+#perc{
+	margin-right: -17em;
+	margin-left: 20em;
+	margin-bottom:0.5em;
+}
+#percc{
+	margin-right: -15em;
+	margin-left: 10em;
+	margin-bottom:0.5em;
+}
+#discounts{
+	color: white;
+	margin: 3em;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+	
+}
+
+.perc2{
+	color: white;
+	margin: 3em;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+	
+}
+.contact{
+	color: white;
+	font-size: 2em;
+}
+#theImg{
+	height: 2em;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.log{
+	height: 4em;
+	list-style: none;
+}
+.log1{
+	height: 3.5em;
+	list-style: none;
+}
+
+#home {
+    background-color: #1E90FF;
+  color: #FFFACD;
+  border: none;
+  padding: 15px 32px;
+  display: inline-block;
+  font-size: 20px;
+  float: right;
+  border-radius: 28px;
+  opacity: 0.6;
+}
+#button1{
+	text-decoration: none;
+	text-align: center;
+}
+#home:hover {
+	background-color:#00BFFF; //#00BFFF
+}
+
+#contact{
+	display:inline;
+}
+
+.logger{
+	margin:50px;
+	color: white;
+	list-style: none;
+	display:inline-block;
+}
